@@ -26,11 +26,7 @@ A full-stack Task Management Application built using the MERN stack (MongoDB, Ex
 
 
 
-## Acknowledgements
-
- - [GeeksforGeeks](https://www.geeksforgeeks.org/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [ChatGPT](https://chat.openai.com)
+# Hi, I'm Sidhant! 👋
 
 
 ## 🚀 About Me
@@ -41,6 +37,7 @@ to meet organizational objectives.
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Bootstrap, React, Node.js, Express.js, MongoDb, MySql, Java
+
 
 ## Screenshots
 
@@ -58,4 +55,14 @@ Javascript, HTML, CSS, Bootstrap, React, Node.js, Express.js, MongoDb, MySql, Ja
 
 ![App Screenshot](https://github.com/Sidhantmishra05/Task-Manager/blob/a22d5676fd49bf3a227ca58b719e3a6bf37f7c85/Screenshot%20(154).png))
 
+
+## Acknowledgements
+
+ - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [ChatGPT](https://chat.openai.com)
+
+
+## License
+This project is open-source and available under the [MIT](https://choosealicense.com/licenses/mit/)
 
