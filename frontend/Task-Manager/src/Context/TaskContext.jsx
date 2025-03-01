@@ -8,8 +8,8 @@ import axios from "axios";
 
 const TaskContext = createContext();
 
-const apiUrl =  "http://localhost:5000";
-const apiUrle= "http://localhost:5000/tasks/createtask";
+const apiUrl =  "https://task-manager-1-i7l8.onrender.com";
+const apiUrle= "https://task-manager-1-i7l8.onrender.com/createtask";
 
 export const useTaskContext = () => {
     return useContext(TaskContext);
